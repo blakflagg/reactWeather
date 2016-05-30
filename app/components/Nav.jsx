@@ -10,7 +10,6 @@ onSearch: function(e){
 render: function(){
   return(
 
-
         <div className="top-bar">
           <div className="top-bar-left">
             <ul className="menu">
